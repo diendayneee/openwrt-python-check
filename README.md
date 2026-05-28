@@ -3,7 +3,8 @@
 > Ứng dụng C kiểm tra phiên bản Python 3.9 — build bằng **OpenWRT SDK**, test trên **OpenWRT rootfs** — toàn bộ container hoá bằng Docker 2-stage.
 
 ---
-
+## Repository
+https://github.com/diendayneee/openwrt-python-check/tree/feature/python-version-check
 ## Mục lục
 
 1. [Mục tiêu](#1-mục-tiêu)
